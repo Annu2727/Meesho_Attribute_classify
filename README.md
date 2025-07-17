@@ -1,5 +1,4 @@
-🔍 Problem Statement
-
+🔍 Problem Statement ->
 Given a dataset of clothing product images, the task is to detect the main product in the image and then predict multiple visual attributes that describe the product (e.g., sleeve type, neckline, color, pattern).
 
 🛠️ Project Highlights --->>
@@ -7,7 +6,7 @@ Given a dataset of clothing product images, the task is to detect the main produ
 🔎 YOLOv5 for Object Detection
 Used YOLOv5 to detect and crop the clothing region from noisy product images.
 
-🧠 ViT (Vision Transformer) for Attribute Classification
+🧠 ViT (Vision Transformer) for Attribute Classification 
 Applied Vision Transformer (ViT) to classify multiple attributes from the cropped product images.
 
 📁 Multi-label Classification
